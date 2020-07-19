@@ -15,6 +15,10 @@
 
 <p>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games, LLC. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page. These terms may be updated at any time.</p>
 
+<strong>Distribution</strong>
+
+<p>If you choose to upload a video on Aero Client, you are required to use an official link from us instead of your own when linking people to the site. This is to prevent people from using untrusted versions of Aero Client.</p>
+
 <strong>Abuse Of Services</strong>
 
 <p>Any attempt to abuse the services on Aero Client such as friends list, cosmetics system, or anything related to the launcher could result in the prevention of launching Aero Client.</p>
