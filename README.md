@@ -27,6 +27,6 @@
 <br>
 <br>
 <p align="center">
-    <a href="https://github.com/Aero-Client/Privacy-Policy">Privacy Policy</a>
+    <a href="https://github.com/Aero-Client/Privacy-Policy" src="https://raw.githubusercontent.com/Aero-Client/Aero-Client.github.io/master/button.png"></a>
 </p>
 </html>
