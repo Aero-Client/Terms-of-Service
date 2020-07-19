@@ -21,5 +21,9 @@
 <strong>Reporting</strong>
 
 <p>All reports can be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
-</div>
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/Aero-Client/Privacy-Policy">Privacy Policy</a>
+</p>
 </html>
