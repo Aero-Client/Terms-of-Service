@@ -19,7 +19,7 @@
 
 <strong>Branding</strong>
 
-<p>You may not use the Aero Client logo, name, or any external system by the Aero Client Development Team under any circumstances whatsoever. This includes but is not limited to websocket systems, and code from any release of the Aero Client launcher. You are allowed to use the client we made changes to, as it is CheatBreaker. Impersonation of Aero Client is also not allowed. You are not allowed to claim that Aero Client assets are yours,</p>
+<p>You may not use the Aero Client logo, name, or any external system by the Aero Client Development Team under any circumstances whatsoever. This includes but is not limited to websocket systems, and code from any release of the Aero Client launcher. You are allowed to use the client we made changes to, as it is CheatBreaker. Impersonation of Aero Client is also not allowed.</p>
 
 <strong>Reporting</strong>
 
