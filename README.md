@@ -6,6 +6,8 @@
     <h1 align="center">Aero Client Terms Of Service</h1>
     <p align="center">
     <strong>By using Aero Client you agree to these terms.</strong>
+    <br>
+    <strong>Last Updated: 7/18/2020 10:56 PM</strong>
     </p>
 </p>
 
