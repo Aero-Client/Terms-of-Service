@@ -12,7 +12,7 @@
 
 <strong>Abuse Of Services</strong>
 
-<p>Any attempt to abuse the services on Aero Client such as friends list, cosmetics system, or anything related to the launcher could result in prevention of launching Aero Client.</p>
+<p>Any attempt to abuse the services on Aero Client such as friends list, cosmetics system, or anything related to the launcher could result in the prevention of launching Aero Client.</p>
 
 <strong>Branding</strong>
 
