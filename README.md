@@ -7,7 +7,7 @@
 
 # Information
 
-<p align="center" style="font-weight: bolder>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games, LLC. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page.</p>
+<p style="font-weight: bolder>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games, LLC. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page.</p>
 
 # Abuse Of Services
 
