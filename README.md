@@ -5,7 +5,6 @@
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
     <h1 align="center">Aero Client Terms Of Service</h1>
     <p align="center">
-    <br>
     <strong>Last Updated: 7/29/2020 8:43 PM EST</strong>
     </p>
 </p>
