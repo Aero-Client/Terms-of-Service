@@ -7,7 +7,7 @@
     <p align="center">
     <strong>By using Aero Client you agree to these terms.</strong>
     <br>
-    <strong>Last Updated: 7/18/2020 10:56 PM</strong>
+    <strong>Last Updated: 7/29/2020 8:43 PM EST</strong>
     </p>
 </p>
 
