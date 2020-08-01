@@ -15,7 +15,7 @@
 
 <strong>Distribution</strong>
 
-<p>Aero Client can be found <a href="https://github.com/Aero-Client/Launcher">here</a></p>
+<p>Aero Client can be found <a href="https://github.com/Aero-Client/Launcher">here</a>.</p>
     
 <p>If you choose to post content on Aero Client, you are required to use an official link from us instead of your own when linking people to the site. This is to prevent people from using untrusted versions of Aero Client.</p>
 
@@ -34,12 +34,12 @@
 
 <strong>Reporting</strong>
 
-<p>All reports be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
+<p>All reports should be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
 <br>
 <br>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Aero-Client/Privacy-Policy">
     <img src="https://raw.githubusercontent.com/Aero-Client/Aero-Client.github.io/master/button.png">
     </a>
-</p>
+</p>-->
 </html>
