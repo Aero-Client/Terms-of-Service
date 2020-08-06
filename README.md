@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
     <h1 align="center">Aero Client Terms Of Service</h1>
     <p align="center">
-    <strong>Last Updated: 7/29/2020 9:41 PM EST</strong>
+    <strong>Last Updated: 8/6/2020</strong>
     </p>
 </p>
 
@@ -34,7 +34,7 @@
 
 <strong>Reporting</strong>
 
-<p>All reports should be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
+<p>All violations of these terms should be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
 <!--<br>
 <br>
 <p align="center">
