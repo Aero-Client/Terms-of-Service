@@ -35,11 +35,11 @@
 <strong>Reporting</strong>
 
 <p>All violations of these terms should be reported to ArcaneCiCi on Telegram. (@ArcaneCiCi)</p>
-<!--<br>
+<br>
 <br>
 <p align="center">
     <a href="https://github.com/Aero-Client/Privacy-Policy">
     <img src="https://raw.githubusercontent.com/Aero-Client/Aero-Client.github.io/master/button.png">
     </a>
-</p>-->
+</p>
 </html>
