@@ -15,7 +15,7 @@
 
 <strong>Distribution</strong>
 
-<p>Aero Client can be found <a href="https://github.com/Aero-Client/Launcher">here</a>.</p>
+<p>Aero Client can be found <a href="http://aeroclient.tk">here</a>.</p>
     
 <p>If you choose to post content on Aero Client, you are required to use an official link from us instead of your own when linking people to the site. This is to prevent people from using untrusted versions of Aero Client.</p>
 
