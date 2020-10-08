@@ -5,13 +5,13 @@
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
     <h1 align="center">Aero Client Terms Of Service</h1>
     <p align="center">
-    <strong>Last Updated: 8/6/2020</strong>
+    <strong>Last Updated: 10/8/2020</strong>
     </p>
 </p>
 
 <strong>Information</strong>
 
-<p>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games, LLC. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page. These terms may be updated at any time.</p>
+<p>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page. These terms may be updated at any time.</p>
 
 <strong>Distribution</strong>
 
