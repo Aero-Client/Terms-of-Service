@@ -11,7 +11,7 @@
 
 <strong>Information</strong>
 
-<p>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software and constitute a legal agreement between you and CiCi Games. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page. These terms may be updated at any time.</p>
+<p>The terms of this Software License Agreement shall apply to all versions, editions, and future updates of the Aero Client software. Access to and use of CiCi Games websites or other services related to Aero Client is governed by the CiCi Games Terms of Service, located on this page. These terms may be updated at any time.</p>
 
 <strong>Distribution</strong>
 
@@ -30,7 +30,7 @@
 
 <strong>Branding</strong>
 
-<p>You may not use the Aero Client logo, name, or any external system by the Aero Client Development Team under any circumstances whatsoever. This includes but is not limited to websocket systems, and code from any release of the Aero Client launcher. You are allowed to use the original client we made changes to, however you are not allowed to use any of the edits that have been made to the original client. Impersonation of Aero Client is also not allowed.</p>
+<p>You may not use the Aero Client logo, name, or any internal or external system, by the Aero Client Development Team under any circumstances whatsoever. This includes but is not limited to websocket systems, and code from any release of the Aero Client launcher. You are allowed to use the original client we made changes to, however you are not allowed to use any of the edits that have been made to the original client. Impersonation of Aero Client is also not allowed.</p>
 
 <strong>Reporting</strong>
 
